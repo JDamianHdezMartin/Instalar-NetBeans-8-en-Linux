@@ -19,7 +19,7 @@ chmod +x jdk-8u111-nb-8_2-linux-x64.sh
 ![Captura de pantalla de 2021-10-04 20-00-39](https://user-images.githubusercontent.com/91153503/135997856-88affd65-4382-4fc0-a365-30af351c5337.png)
 
 ### Paso 3
-Se mostrará la "pantalla de bienvenida", lo único que falta por hacer es seleccionar el lugar de intalación de NetBeans,seleccionar el lugar de instalación del servidor GlassFish, activar la actualizaciones automáticas y hace click en instalar. Al finalizar debería mostrarse una ventana como la siguiente:
+Se mostrará la "pantalla de bienvenida", lo único que falta por hacer es seleccionar el lugar de instalación de NetBeans,seleccionar el lugar de instalación del servidor GlassFish, activar la actualizaciones automáticas y hacer click en instalar. Al finalizar debería mostrarse una ventana como la siguiente:
 
 ![Captura de pantalla de 2021-10-04 20-02-48](https://user-images.githubusercontent.com/91153503/135998390-b24edf14-2a94-426c-9093-3de4cb560943.png)
 
